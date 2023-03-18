@@ -1,0 +1,3 @@
+C:/Users/aser/source/repos/task10_02/cmake_prodgekt/out/build/x64-Debug/CMakeFiles/my_program.dir
+C:/Users/aser/source/repos/task10_02/cmake_prodgekt/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/aser/source/repos/task10_02/cmake_prodgekt/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
